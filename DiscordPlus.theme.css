@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://pbs.twimg.com/media/FqWO0-gacAAMnvg?format=jpg&name=4096x4096);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 227;
+  --dplus-accent-color-saturation: 240%;
+  --dplus-accent-color-lightness: 84%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -35,7 +35,7 @@
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 0.3;
   --dplus-background-color-lightness-amount: 0.5;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-alpha: 0.4;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
